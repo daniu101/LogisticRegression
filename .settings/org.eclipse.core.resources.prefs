@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//Demo/lr.py=utf-8
+encoding//Demo/lr2.py=utf-8
+encoding//LR/console_model.py=utf-8
+encoding//LR/load_data_module.py=utf-8
+encoding//LR/lr_model.py=utf-8
+encoding//LR/matplotlib_model.py=utf-8
+encoding//LR/training_grad_scent_model.py=utf-8
+encoding//LR/training_stoc_grad_ascent_model.py=utf-8
+encoding//LR/training_stoc_grad_ascent_upgraded_model.py=utf-8
